@@ -1,20 +1,20 @@
-![logo](https://github.com/Aashish-Gangwar/Aashish-Gangwar/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Aashish Gangwar</h1>
-<h3 align="center">Innovating at the Intersection of Technology💻 and Business📊</h3>
+![logo](https://github.com/isushantk/isushantk-/blob/main/Banner.png)
+<h1 align="center">Hi 👋, I'm Sushant </h1>
+<h3 align="center">Where tech meets creativity, magic happens.</h3>
 
 ###
 ###
 
 
 <div align="center">
-<a href="mailto:aashishgangwar2003@gmail.com">
+<a href="mailto:isushantkumar2004@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 
-<a href="https://www.linkedin.com/in/aashish-gangwar" target="_blank">
+<a href="https://www.linkedin.com/in/kumar-sushant07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/aashish__gangwar?igsh=YTl0dW9ydWxuN2xw" target="_blank">
+  <a href="https://www.instagram.com/isushant_07?igsh=MXc1OHRlMHp6NjQ0bQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
@@ -34,16 +34,16 @@
 ###
 
 <div align="Center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-gangwar&theme=dark" alt="aashish-gangwar" /></div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isushantk&theme=dark" alt="isushantk" /></div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Gangwar/Aashish-Gangwar/output/snake.svg"  />
+  <img src="https://raw.githubusercontent.com/isushantk/isushantk-/output/snake.svg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Aashish-Gangwar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/isushantk/count.svg?"  />
 </div>
