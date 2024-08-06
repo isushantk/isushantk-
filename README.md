@@ -1,4 +1,4 @@
-![logo](https://github.com/isushantk/isushantk-/blob/main/Banner.png)
+![logo](https://github.com/isushantk/isushantk-/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Sushant </h1>
 <h3 align="center">Where tech meets creativity, magic happens.</h3>
 
