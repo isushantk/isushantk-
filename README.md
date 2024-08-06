@@ -33,7 +33,16 @@
 
 ###
 
-<div align="Center">
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isushantk&show_icons=true&locale=en&layout=compact" alt="isushantk" /></div>
+
+###
+
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isushantk&show_icons=true&locale=en" alt="isushantk" /></div>
+
+###
+
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isushantk&theme=dark" alt="isushantk" /></div>
 
 ###
