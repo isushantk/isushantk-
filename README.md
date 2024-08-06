@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isushantk&show_icons=true&locale=en&layout=compact" alt="isushantk" /></div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isushantk&show_icons=true&locale=en&layout=compact" alt="isushantk" /></div>
 
 ###
 
@@ -54,5 +54,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/isushantk/count.svg?"  />
+  <img align="center" src="https://profile-counter.glitch.me/isushantk/count.svg?"  />
 </div>
